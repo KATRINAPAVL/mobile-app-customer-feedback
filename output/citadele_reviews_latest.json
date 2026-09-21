@@ -1,8 +1,8 @@
 {
   "app_id": "495139240",
   "app_name": "Citadele Bank",
-  "fetched_at_utc": "2026-09-14T11:39:21.351914+00:00",
-  "review_count": 199,
+  "fetched_at_utc": "2026-09-21T11:52:34.156034+00:00",
+  "review_count": 200,
   "countries": [
     "Estonia",
     "Lithuania",
@@ -85,6 +85,19 @@
       "author_uri": "https://itunes.apple.com/ee/reviews/id654309525",
       "app_version": "12.44",
       "updated": "2022-02-28T01:39:00-07:00",
+      "page": 1
+    },
+    {
+      "country_code": "lt",
+      "country_name": "Lithuania",
+      "review_id": "14547932569",
+      "rating": 4,
+      "title": "Подключение",
+      "content": "Для подключения нет Smart- idI, это неудобно.",
+      "author_name": "wplaton",
+      "author_uri": "https://itunes.apple.com/lt/reviews/id239465837",
+      "app_version": "46.6",
+      "updated": "2026-09-13T23:54:53-07:00",
       "page": 1
     },
     {
@@ -649,6 +662,19 @@
     {
       "country_code": "lv",
       "country_name": "Latvia",
+      "review_id": "14569716155",
+      "rating": 1,
+      "title": "Built for the bank",
+      "content": "Poor language choice. Also full of ads. All the things you dont need.",
+      "author_name": "bor1s",
+      "author_uri": "https://itunes.apple.com/lv/reviews/id234315548",
+      "app_version": "46.6",
+      "updated": "2026-09-19T13:33:39-07:00",
+      "page": 1
+    },
+    {
+      "country_code": "lv",
+      "country_name": "Latvia",
       "review_id": "14453623753",
       "rating": 1,
       "title": "Zero support and feedback",
@@ -917,19 +943,6 @@
       "author_uri": "https://itunes.apple.com/lv/reviews/id302645165",
       "app_version": "45.3",
       "updated": "2025-09-26T08:13:49-07:00",
-      "page": 1
-    },
-    {
-      "country_code": "lv",
-      "country_name": "Latvia",
-      "review_id": "12921454365",
-      "rating": 2,
-      "title": "Built for the bank",
-      "content": "A well-built for the bank app. Less things actually needed or usable for user, more options for the bank to advertise their services.",
-      "author_name": "bor1s",
-      "author_uri": "https://itunes.apple.com/lv/reviews/id234315548",
-      "app_version": "45.3",
-      "updated": "2025-07-21T23:53:12-07:00",
       "page": 1
     },
     {
