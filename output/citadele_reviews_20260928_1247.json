@@ -1,0 +1,91 @@
+{
+  "app_id": "495139240",
+  "app_name": "Citadele Bank",
+  "fetched_at_utc": "2026-09-28T12:47:05.504085+00:00",
+  "review_count": 6,
+  "countries": [
+    "Estonia",
+    "Lithuania",
+    "Latvia"
+  ],
+  "reviews": [
+    {
+      "country_code": "ee",
+      "country_name": "Estonia",
+      "review_id": "13601787565",
+      "rating": 5,
+      "title": "Kiire teenus",
+      "content": "Pangateenus super kiire . Tänud",
+      "author_name": "racky88",
+      "author_uri": "https://itunes.apple.com/ee/reviews/id104106069",
+      "app_version": "45.7",
+      "updated": "2026-01-06T07:00:12-07:00",
+      "page": 1
+    },
+    {
+      "country_code": "ee",
+      "country_name": "Estonia",
+      "review_id": "13270224863",
+      "rating": 5,
+      "title": "iPad",
+      "content": "Need upgrade app for using iPad",
+      "author_name": "Sv&K",
+      "author_uri": "https://itunes.apple.com/ee/reviews/id1302771618",
+      "app_version": "45.5",
+      "updated": "2025-10-15T09:11:09-07:00",
+      "page": 1
+    },
+    {
+      "country_code": "ee",
+      "country_name": "Estonia",
+      "review_id": "13239167735",
+      "rating": 1,
+      "title": "Sup",
+      "content": "They ask for mic and screen recording and wont allow without it which is sketchy",
+      "author_name": "ints7298",
+      "author_uri": "https://itunes.apple.com/ee/reviews/id1221150806",
+      "app_version": "45.5",
+      "updated": "2025-10-08T02:37:15-07:00",
+      "page": 1
+    },
+    {
+      "country_code": "ee",
+      "country_name": "Estonia",
+      "review_id": "13127762461",
+      "rating": 1,
+      "title": "Confusing",
+      "content": "MobileSCAN doesn’t work and the whole authenticaton process is very confusing. No Smart-ID either.",
+      "author_name": "r47693",
+      "author_uri": "https://itunes.apple.com/ee/reviews/id122905050",
+      "app_version": "45.3",
+      "updated": "2025-09-12T02:33:53-07:00",
+      "page": 1
+    },
+    {
+      "country_code": "ee",
+      "country_name": "Estonia",
+      "review_id": "12244130900",
+      "rating": 1,
+      "title": "Elmars",
+      "content": "Very hard to change profile and lot of standard things missing",
+      "author_name": "Karumatti",
+      "author_uri": "https://itunes.apple.com/ee/reviews/id200801155",
+      "app_version": "44.2",
+      "updated": "2025-01-29T00:47:34-07:00",
+      "page": 1
+    },
+    {
+      "country_code": "ee",
+      "country_name": "Estonia",
+      "review_id": "8404883771",
+      "rating": 1,
+      "title": "Broken login",
+      "content": "Content on login screen is wrong. Save toggle works and hide toggle.\nAutomatic login with Face ID is not working. Have to log in manually every time. Code entering for login results in error.\nThe app was horrible, then it was working for a while, and now it is terrible.\nDo you not try out your app before releasing?",
+      "author_name": "irdaks",
+      "author_uri": "https://itunes.apple.com/ee/reviews/id654309525",
+      "app_version": "12.44",
+      "updated": "2022-02-28T01:39:00-07:00",
+      "page": 1
+    }
+  ]
+}
