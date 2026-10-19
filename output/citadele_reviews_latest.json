@@ -1,14 +1,27 @@
 {
   "app_id": "495139240",
   "app_name": "Citadele Bank",
-  "fetched_at_utc": "2026-10-12T14:18:13.597313+00:00",
-  "review_count": 203,
+  "fetched_at_utc": "2026-10-19T11:59:15.245509+00:00",
+  "review_count": 204,
   "countries": [
     "Estonia",
     "Lithuania",
     "Latvia"
   ],
   "reviews": [
+    {
+      "country_code": "ee",
+      "country_name": "Estonia",
+      "review_id": "14676445321",
+      "rating": 5,
+      "title": "Замечательный",
+      "content": "Я в этом банке, как клиент, совсем недолго. Но с первых дней я в него влюблена. Такого подхода к клиентам я не встречала . Я счастлива, что выбрала именно этот банк.",
+      "author_name": "Grentoma",
+      "author_uri": "https://itunes.apple.com/ee/reviews/id1980568219",
+      "app_version": "46.6",
+      "updated": "2026-10-17T00:16:59-07:00",
+      "page": 1
+    },
     {
       "country_code": "ee",
       "country_name": "Estonia",
@@ -913,7 +926,7 @@
       "rating": 1,
       "title": "Forced updates",
       "content": "Aplikācija vairs nestrādā jo man jāpērk jauns telefons, tā vismaz Citadele banka uzskata :)",
-      "author_name": "Helmuts no tatarstānas",
+      "author_name": "HelmutsR",
       "author_uri": "https://itunes.apple.com/lv/reviews/id555983244",
       "app_version": "45.0",
       "updated": "2025-12-01T01:10:43-07:00",
