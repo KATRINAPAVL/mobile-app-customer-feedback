@@ -1,8 +1,8 @@
 {
   "app_id": "495139240",
   "app_name": "Citadele Bank",
-  "fetched_at_utc": "2026-10-19T11:59:15.245509+00:00",
-  "review_count": 204,
+  "fetched_at_utc": "2026-10-26T12:10:25.067328+00:00",
+  "review_count": 203,
   "countries": [
     "Estonia",
     "Lithuania",
@@ -740,19 +740,6 @@
     {
       "country_code": "lv",
       "country_name": "Latvia",
-      "review_id": "14391669011",
-      "rating": 1,
-      "title": "Slēpj lietotnes kļūdas zem \"slepenības\" plīvura",
-      "content": "Jaunākajos atjauninājumos tika sabojāta Apple Shortcuts (App Intents) integrācija. Uz tehnisku jautājumu ar pierādījumiem atbalsta dienests pēc 2 nedēļām atbildēja, ka informācija par to, vai funkcijas nedarbošanās ir kļūda (bugs), ir \"iekšējs tehniskais lēmums, ko klientiem neatklāj\". Tā vietā, lai labotu kļūdas, banka tās slēpj aiz atrunām.",
-      "author_name": "Igbu8",
-      "author_uri": "https://itunes.apple.com/lv/reviews/id353310269",
-      "app_version": "46.4",
-      "updated": "2026-08-05T09:53:47-07:00",
-      "page": 1
-    },
-    {
-      "country_code": "lv",
-      "country_name": "Latvia",
       "review_id": "14299202795",
       "rating": 2,
       "title": "Nedarbojas korekti aplikācija",
@@ -1333,7 +1320,7 @@
       "author_uri": "https://itunes.apple.com/lv/reviews/id1234649714",
       "app_version": "14.0",
       "updated": "2024-03-04T07:16:56-07:00",
-      "page": 2
+      "page": 1
     },
     {
       "country_code": "lv",
@@ -1983,7 +1970,7 @@
       "author_uri": "https://itunes.apple.com/lv/reviews/id108465413",
       "app_version": "12.41",
       "updated": "2021-10-19T12:32:20-07:00",
-      "page": 3
+      "page": 2
     },
     {
       "country_code": "lv",
@@ -2633,7 +2620,7 @@
       "author_uri": "https://itunes.apple.com/lv/reviews/id86692157",
       "app_version": "1.0",
       "updated": "2012-11-06T01:13:01-07:00",
-      "page": 4
+      "page": 3
     },
     {
       "country_code": "lv",
