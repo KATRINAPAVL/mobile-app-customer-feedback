@@ -1,8 +1,8 @@
 {
   "app_id": "495139240",
   "app_name": "Citadele Bank",
-  "fetched_at_utc": "2026-11-09T15:01:14.775939+00:00",
-  "review_count": 204,
+  "fetched_at_utc": "2026-11-16T14:38:27.482680+00:00",
+  "review_count": 205,
   "countries": [
     "Estonia",
     "Lithuania",
@@ -675,6 +675,19 @@
     {
       "country_code": "lv",
       "country_name": "Latvia",
+      "review_id": "14767149118",
+      "rating": 5,
+      "title": "Hi",
+      "content": "Best banking app I’ve ever used",
+      "author_name": "Ladyalpineblue",
+      "author_uri": "https://itunes.apple.com/lv/reviews/id564910471",
+      "app_version": "46.6",
+      "updated": "2026-11-08T12:47:06-07:00",
+      "page": 1
+    },
+    {
+      "country_code": "lv",
+      "country_name": "Latvia",
       "review_id": "14708835963",
       "rating": 1,
       "title": "Slēpj lietotnes kļūdas zem \"slepenības\" plīvura",
@@ -1320,7 +1333,7 @@
       "author_uri": "https://itunes.apple.com/lv/reviews/id1409702477",
       "app_version": "14.0",
       "updated": "2024-03-05T10:31:05-07:00",
-      "page": 1
+      "page": 2
     },
     {
       "country_code": "lv",
@@ -1970,7 +1983,7 @@
       "author_uri": "https://itunes.apple.com/lv/reviews/id86935130",
       "app_version": "12.41",
       "updated": "2021-10-28T10:04:31-07:00",
-      "page": 2
+      "page": 3
     },
     {
       "country_code": "lv",
@@ -2620,7 +2633,7 @@
       "author_uri": "https://itunes.apple.com/lv/reviews/id168350109",
       "app_version": "2.0",
       "updated": "2013-02-04T11:55:44-07:00",
-      "page": 3
+      "page": 4
     },
     {
       "country_code": "lv",
